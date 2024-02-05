@@ -29,7 +29,6 @@
 # :man_technologist: About Me
 
 - :telescope: I am a Junior Backend Developer exploring various technologies and frameworks.
-- :man_student: I am an alumnus of Udacity, where I received comprehensive training in software development.
 - :seedling: I am passionate about open-source contributions and actively contribute to the development community.
 - :people_holding_hands: I am open to collaborating on Backend projects and constantly seeking opportunities to expand my skill set.
 - :zap: In my free time, I enjoy working on electronic projects (Arduino, Raspberry Pi), writing poetry, and observing nature.
