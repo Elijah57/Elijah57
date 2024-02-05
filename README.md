@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/chukwukaibejih/">
+    <a href="https://www.linkedin.com/in/elijah-echekwu-7b877019a">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href=mailto:elijahechekwu30@gmail.com">
@@ -31,21 +31,21 @@
 
 # :man_technologist: About Me
 
-- :telescope: I am a Junior Backend Developer curently exploring various technologies and frameworks.
+- :telescope: I am a Junior Backend Developer exploring various technologies and frameworks.
 - :man_student: I am an alumnus of Udacity, where I received comprehensive training in software development.
 - :seedling: I am passionate about open-source contributions and actively contribute to the development community.
-- :people_holding_hands: I am open to collaborating on Backend projects and constantly seeking opportunities to expand my skillset.
-- :zap: In my free time, I enjoy working on electronics projects, writing poetry, and observing nature.
-- :mailbox: Feel free to reach out to me via email at elijahechekwu30@gmail.com if you would like to connect or discuss any opportunities.
+- :people_holding_hands: I am open to collaborating on Backend projects and constantly seeking opportunities to expand my skill set.
+- :zap: In my free time, I enjoy working on electronic projects (Arduino, RaspberryPi), writing poetry, and observing nature.
+- :mailbox: Feel free to contact me via email at elijahechekwu30@gmail.com if you want to connect or discuss any opportunities.
 
 ---
 
 ## :rocket: Skills
 
 - Backend Development: Python, Django, Flask, Node.js
-- Databases: PostgreSQL, MySQL, MongoDB
-- RESTful APIs: Django REST Framework
+- Databases: PostgreSQL, MongoDB
+- RESTful APIs: Django REST Framework, Express.js
 - Version Control: Git, GitHub
-- Deployment: Heroku, AWS, Docker
+
 
 ---
