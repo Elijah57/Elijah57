@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Elijah57/Elijah57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
@@ -35,7 +32,7 @@
 - :man_student: I am an alumnus of Udacity, where I received comprehensive training in software development.
 - :seedling: I am passionate about open-source contributions and actively contribute to the development community.
 - :people_holding_hands: I am open to collaborating on Backend projects and constantly seeking opportunities to expand my skill set.
-- :zap: In my free time, I enjoy working on electronic projects (Arduino, RaspberryPi), writing poetry, and observing nature.
+- :zap: In my free time, I enjoy working on electronic projects (Arduino, Raspberry Pi), writing poetry, and observing nature.
 - :mailbox: Feel free to contact me via email at elijahechekwu30@gmail.com if you want to connect or discuss any opportunities.
 
 ---
