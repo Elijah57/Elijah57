@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0mNcp_z3ZrkFGmxsghyMQF&ust=1707247792547000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICr2un3lIQDFQAAAAAdAAAAABAE" width="100"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/elijah-echekwu-7b877019a">
