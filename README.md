@@ -36,10 +36,11 @@
 
 ## :rocket: Skills
 
-- Backend Development: Python, Django, Flask, Node.js
-- Databases: PostgreSQL, MongoDB
+- Backend Development: API development,  Database Management, Security protocol
+- Databases: PostgreSQL, MongoDB, MySQL
 - RESTful APIs: Django REST Framework, Express.js
 - Version Control: Git, GitHub
+- Tech Stack: Python, Flask, Express.js, Typescript, Node.js, Docker, Javascript
 
 
 ---
