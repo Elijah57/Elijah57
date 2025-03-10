@@ -48,8 +48,8 @@
 ### 📊 Github Stats
 
 <p align="justify" width="100%">
-     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elijah57&theme=transparent&show_icons=true&locale=en" alt="Elijah's  Github stats" width="auto" />
-     <img valign="top" alt="Elijah's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijah57&theme=transparent&layout=compact&langs_count=8" width="auto"/>
+     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elijah57&theme=transparent&show_icons=true&locale=en" alt="Elijah's  Github stats" width="auto" />
+     <img valign="top" alt="Elijah's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elijah57&theme=transparent&layout=compact&langs_count=8" width="auto"/>
 </p>
 </br>
 
