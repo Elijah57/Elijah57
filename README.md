@@ -26,9 +26,7 @@
 
 # :man_technologist: About Me
 
-- :telescope: I am a Junior Backend Developer exploring various technologies and frameworks.
-- :seedling: I am passionate about open-source contributions and actively contribute to the development community.
-- :people_holding_hands: I am open to collaborating on Backend projects and constantly seeking opportunities to expand my skill set.
+- :telescope: I am Backend Engineer with a strong focus on system engineering and low-level programming.
 - :zap: In my free time, I enjoy working on electronic projects (Arduino, Raspberry Pi), writing poetry, and observing nature.
 - :mailbox: Feel free to contact me via email at elijahechekwu30@gmail.com if you want to connect or discuss any opportunities.
 
@@ -36,11 +34,11 @@
 
 ## :rocket: Skills
 
-- Backend Development: API development,  Database Management, Security protocol
-- Databases: PostgreSQL, MongoDB, MySQL
-- RESTful APIs: Django REST Framework, Express.js
-- Version Control: Git, GitHub
-- Tech Stack: Python, Flask, Express.js, Typescript, Node.js, Docker, Javascript
+- Backend Development: API development and security,  Database Management, Security protocol
+- Databases & MQ: PostgreSQL, MongoDB, Redis, Firebase, RabbitMQ, Redis Pub/Sub
+- RESTful APIs: DRF, Express.js, Go (Fiber, Gin, Gorrila/Mux, net/http), Scikit-Learn (ML)
+- Infrastructure & Tools: Docker, Nginx, Github Actions, Linux
+- Tech Stack: Go, Python, Node.js, Typescript, Node.js, Javascript, 
 
 
 ---
